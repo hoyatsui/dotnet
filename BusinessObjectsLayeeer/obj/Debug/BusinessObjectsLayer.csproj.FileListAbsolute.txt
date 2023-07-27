@@ -1,0 +1,12 @@
+E:\itlize\project\BusinessObjectsLayeeer\obj\Debug\BusinessObjectsLayer.csproj.AssemblyReference.cache
+E:\itlize\project\BusinessObjectsLayeeer\obj\Debug\BusinessObjectsLayer.csproj.CoreCompileInputs.cache
+E:\itlize\project\BusinessObjectsLayeeer\bin\Debug\EntityFramework.dll
+E:\itlize\project\BusinessObjectsLayeeer\bin\Debug\EntityFramework.SqlServer.dll
+E:\itlize\project\BusinessObjectsLayeeer\bin\Debug\EntityFramework.xml
+E:\itlize\project\BusinessObjectsLayeeer\bin\Debug\EntityFramework.SqlServer.xml
+E:\itlize\project\BusinessObjectsLayeeer\obj\Debug\BusinessObjectsLayer.csproj.CopyComplete
+E:\itlize\project\BusinessObjectsLayeeer\bin\Debug\BusinessObjectsLayer.dll.config
+E:\itlize\project\BusinessObjectsLayeeer\bin\Debug\BusinessObjectsLayer.dll
+E:\itlize\project\BusinessObjectsLayeeer\bin\Debug\BusinessObjectsLayer.pdb
+E:\itlize\project\BusinessObjectsLayeeer\obj\Debug\BusinessObjectsLayer.dll
+E:\itlize\project\BusinessObjectsLayeeer\obj\Debug\BusinessObjectsLayer.pdb

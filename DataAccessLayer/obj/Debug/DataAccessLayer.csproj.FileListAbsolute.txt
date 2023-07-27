@@ -1,0 +1,15 @@
+E:\itlize\project\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+E:\itlize\project\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\itlize\project\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\itlize\project\DataAccessLayer\bin\Debug\EntityFramework.dll
+E:\itlize\project\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\itlize\project\DataAccessLayer\bin\Debug\EntityFramework.xml
+E:\itlize\project\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\itlize\project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+E:\itlize\project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\itlize\project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+E:\itlize\project\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\itlize\project\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\itlize\project\DataAccessLayer\bin\Debug\BusinessObjectsLayer.dll
+E:\itlize\project\DataAccessLayer\bin\Debug\BusinessObjectsLayer.pdb
+E:\itlize\project\DataAccessLayer\bin\Debug\BusinessObjectsLayer.dll.config
